@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-typescript-metadata": "^0.3.2",
+    "cypress": "^10.8.0"
+  }
+}
